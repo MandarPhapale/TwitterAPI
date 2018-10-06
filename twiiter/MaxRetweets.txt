@@ -1,0 +1,42 @@
+The top 10 tweets that has the max no of retweets : 
+
+1. Username: Vishupedia
+ Tweet: "@Vishupedia: When life gives you a Rahul make it a Dravid not Gandhi #SwapnaBarman https://t.co/UaIW9K9ObR"  
+ No of retweets: 320
+
+2. Username: BeingRana45
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
+3. Username: sujay_07
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
+4. Username: TBKRNBKR
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
+5. Username: surajsh07828573
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
+6. Username: SamavedamRohit
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
+7. Username: jeshy_sano
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
+8. Username: srinivasann98
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
+9. Username: Dhoni_SRK
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
+10. Username: Pralaynaath
+ Tweet: "@imjsk27: Best batting avg for India in knockout games (Min 500 runs)Sachin Tendulkar - 52.84ROHIT SHARMA - 44.84Sourav Ganguly - 44.â¦"  
+ No of retweets: 300
+
